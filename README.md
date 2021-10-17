@@ -2,7 +2,9 @@
 
 > In [mathematics](https://en.wikipedia.org/wiki/Mathematics), a **Fourier transform** (**FT**) is a [mathematical transform](https://en.wikipedia.org/wiki/Integral_transform) that decomposes [functions](https://en.wikipedia.org/wiki/Function_(mathematics)) depending on space or time into functions depending on spatial or temporal frequency, such as the expression of a musical [chord](https://en.wikipedia.org/wiki/Chord_(music)) in terms of the volumes and frequencies of its constituent notes. The term *Fourier transform* refers to both the [frequency domain](https://en.wikipedia.org/wiki/Frequency_domain) representation and the [mathematical operation](https://en.wikipedia.org/wiki/Operation_(mathematics)) that associates the frequency domain representation to a function of space or time. [Wikipedia]
 
-![image alt text](image_0.png)
+ <img src="image_0.png" alt="alt_text" title="image_tooltip" width="400">
+  
+
 
 ## Experimentations:
 
