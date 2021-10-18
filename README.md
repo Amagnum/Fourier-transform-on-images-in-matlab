@@ -99,7 +99,7 @@ Take an image (e.g., pout.tif), compute the Fourier transform, and reconstruct t
   <tr>
     <td>Filter 1</td>
     <td>FFT after applying Filter 1</td>
-    <td>Image (removing low frequencies)</td>
+    <td>Image (removing high frequencies)</td>
   </tr>
   <tr>
     <td> <img src="Q3/Figure_3.png" width="" alt="alt_text" title="image_tooltip"> </td>
@@ -109,7 +109,7 @@ Take an image (e.g., pout.tif), compute the Fourier transform, and reconstruct t
   <tr>
     <td>Filter 2</td>
     <td>FFT after applying Filter 2</td>
-    <td>Image (removing high frequencies)</td>
+    <td>Image (removing low frequencies)</td>
   </tr>
 </table>
 
